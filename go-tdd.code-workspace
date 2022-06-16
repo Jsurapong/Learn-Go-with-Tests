@@ -11,6 +11,12 @@
     },
     {
       "path": "arrays-and-slices"
+    },
+    {
+      "path": "structs-methods-and-interfaces"
+    },
+    {
+      "path": "pointers-and-errors"
     }
   ],
   "settings": {}
