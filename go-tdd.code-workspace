@@ -22,6 +22,10 @@
       "path": "maps"
     },{
       "path": "dependency"
+    },{
+      "path": "mocking"
+    },{
+      "path": "concurrency"
     }
   ],
   "settings": {}
