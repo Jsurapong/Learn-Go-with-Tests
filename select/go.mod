@@ -1,3 +1,3 @@
-module select
+module myapp
 
 go 1.18
