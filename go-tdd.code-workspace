@@ -26,6 +26,10 @@
       "path": "mocking"
     },{
       "path": "concurrency"
+    },{
+      "path": "reflection"
+    },{
+      "path": "select"
     }
   ],
   "settings": {}
